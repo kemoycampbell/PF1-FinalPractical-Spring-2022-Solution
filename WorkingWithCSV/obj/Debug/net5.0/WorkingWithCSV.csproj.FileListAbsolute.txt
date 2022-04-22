@@ -1,0 +1,16 @@
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.exe
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.deps.json
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.runtimeconfig.json
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.runtimeconfig.dev.json
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\ref\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\bin\Debug\net5.0\WorkingWithCSV.pdb
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.AssemblyInfo.cs
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\ref\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.pdb
+C:\Users\kscics\Desktop\FinalPracticeExam\WorkingWithCSV\obj\Debug\net5.0\WorkingWithCSV.genruntimeconfig.cache
